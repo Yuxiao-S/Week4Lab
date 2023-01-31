@@ -5,10 +5,12 @@
  */
 package models;
 
+import java.io.Serializable;
+
 /**
  *
  * @author SYX
  */
-public class Note {
+public class Note implements Serializable{
     
 }
